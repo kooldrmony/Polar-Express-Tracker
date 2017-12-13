@@ -1,0 +1,40 @@
+body{
+    
+    height: 100%;
+    background-image: url("../images/northpole.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+
+}
+
+.jumbotron{
+
+    background-image: url(../images/download.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+
+}
+
+#title{
+
+    color: white;
+}
+
+.text-center{
+
+    color: white;
+}
+
+.panel-primary{
+
+    color: green;
+}
+
+.panel-body{
+
+    background-image: url(../images/snow.jpg);
+    background-size: cover;
+    height: 100%;
+}
