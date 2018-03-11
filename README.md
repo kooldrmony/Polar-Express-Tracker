@@ -5,7 +5,7 @@ The page allows the user to add a new arrival and departure city as well as a st
 
 ## How to Access
 
-To access and use the Train-Scheduler application visit this [link](https://kooldrmony.github.io/Train-Scheduler/).
+To access and use the Train-Scheduler application visit this [link](https://kooldrmony.github.io/Polar-Express-Tracker/).
 
 ## Purpose
 
